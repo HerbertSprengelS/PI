@@ -33,7 +33,6 @@ p, h1, h2, h3, a{
         }  
         
 .quadrado{
-
             width: 250px;
             height: 33%;
             margin: 10px;
@@ -42,13 +41,11 @@ p, h1, h2, h3, a{
 }
 
 .quadradoE{
-    
-             
            width:350px; 
             height:680px;
             margin: 10px;
             border: 1px solid #0000FF;
-            margin-top: -72%;
+            margin-top: -67%;
             float: right;
  }  
  
